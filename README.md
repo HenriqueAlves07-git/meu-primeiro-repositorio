@@ -7,4 +7,4 @@ Estou iniciando minha jornada no mundo da tecnologia e transformando conceitos t
 -🌱 Explorando: Estrutura de dados e Versionamento com Git/GitHub
 -📫 Contato: henriquebento035@gmail.com
 
-##Este repositorio será usado para um exercício do dia 26/03/2026##
+**Este repositorio será usado para um exercício do dia 26/03/2026**
