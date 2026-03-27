@@ -1,4 +1,4 @@
-+ Esta linha ficará verde Olá, eu sou o Henrique! 👋
+ Olá, eu sou o Henrique! 👋
  🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º Semestre)
 Estou iniciando minha jornada no mundo da tecnologia e transformando conceitos teóricos em código funcional. Atualmente, foco em construir uma base sólida em lógica e algoritmos.
 
